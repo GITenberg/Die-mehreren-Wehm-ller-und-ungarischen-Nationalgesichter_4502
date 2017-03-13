@@ -1,5 +1,8 @@
 _repo: Die-mehreren-Wehm-ller-und-ungarischen-Nationalgesichter_4502
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brentano, Clemens
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Clemens_Brentano
     - http://de.wikipedia.org/wiki/Clemens_Brentano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4502#Die-mehreren-Wehm-ller-und-ungarischen-Nationalgesichter
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
